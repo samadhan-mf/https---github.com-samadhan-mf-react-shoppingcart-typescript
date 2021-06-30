@@ -11,3 +11,4 @@ ReactDOM.render(
   </QueryClientProvider>,
   document.getElementById('root')
 );
+

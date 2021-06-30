@@ -43,3 +43,4 @@ const CartItem: React.FC<Props> = ({ item, addToCart, removeFromCart }) => (
 );
 
 export default CartItem;
+
